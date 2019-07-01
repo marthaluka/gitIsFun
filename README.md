@@ -27,3 +27,9 @@ Here is an image that i like: ![image](https://5.imimg.com/data5/DL/TB/MY-239194
 Someone once said
 > As a bioinformatician, trust no one
 
+My to do list:
+1. Wake up
+2. Attend training
+3. Eat
+4. Sleep
+
